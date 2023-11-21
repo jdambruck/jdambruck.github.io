@@ -1,0 +1,22 @@
+<html>
+<head> 
+<link rel="stylesheet" href="styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Joti+One&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <section id="fourth-section">
+        <div class="flex chunk"></div>
+        <h1>Thom Holland</h1>
+        <p>Thomas Stanley Holland is an English actor. His accolades include a British Academy Film Award and three Saturn Awards. Some publications have called him one of the most popular actors of his generation,ever since the Spider-man role he has become very popular </p>
+        <div class="image"></div>
+        </section>
+ 
+        spiderman video 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/07iU0RnZy8g?si=VXN1TWfxfXDvwmqa&amp;start=13" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ </body>
+ 
+ </html>
+     

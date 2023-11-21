@@ -7,7 +7,6 @@
 }
 
 
-
 /* Color */
 
 
@@ -16,7 +15,7 @@
 
 /**** Layout */
 section {
-    Width: 100px;
+    Width: 1000px;
 }
 #first-section{
 background-color: red;
@@ -36,7 +35,7 @@ font-family: var(--serif);
 }
 
 .chunk{
-    background-color: antiquewhite;
+    background-color: rgb(222, 31, 31);
 }
 
 .image{
@@ -44,3 +43,33 @@ font-family: var(--serif);
     height:300px;
     background-color: aqua;
 }
+
+/*******/
+Nav{
+display: flex;
+width: 100px;
+justify-content:space-between;
+background-color: rgb(237, 133, 7);
+padding: 20px 0;
+}
+
+Nav ul{ 
+    list-style-type: none;
+    display: contents;
+}
+
+#thom-holland img {
+  width: 400px;   
+}
+
+#toby-maguire img{
+    width: 400px;
+    
+}
+
+#andrew-garfield img {
+width: 400px;
+background-color: lime;
+
+}
+

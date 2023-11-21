@@ -1,0 +1,22 @@
+
+<html>
+    <head> 
+    <Title> Toby Maguire</Title>
+        <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Joti+One&display=swap" rel="stylesheet">
+    
+ 
+    <section id="second-section">
+    <div class="flex chunk"></div>
+    <h1>Toby Maguire</h1>
+    <p>Tobey Maguire was ultimately cast as Peter Parker/Spider-Man in July 2000, having been Sam Raimi's primary choice for the role after he saw The Cider House Rules..</p>
+    <div class="image"></div>
+    </section>
+   </body>
+spiderman toby car scene 
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/4_K_scbxMrs?si=FbSIPqXM2gyUwzHC&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   
+</head>
+</html>
