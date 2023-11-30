@@ -5,6 +5,16 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Joti+One&display=swap" rel="stylesheet">
 
+
+<nav> 
+  <ul> 
+     <li><a href="index.html">Home</a></li>
+     <li><a href="toby-maguire">toby-maguire</a></li>
+     <li><a href="andrew-garfield">andrew-garfield</a></li>
+     <li><a href="thom-holland"></a>thom-holland</li>
+  </ul>
+</nav>
+
 </head>
 <body> 
     <section id="third section">
@@ -15,6 +25,7 @@
  
 
  spiderman andrew-garfield car scene 
+ <div class="flex chunk"></div>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/4_K_scbxMrs?si=FbSIPqXM2gyUwzHC&amp;start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  </section>
  </body>

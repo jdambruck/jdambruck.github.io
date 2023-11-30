@@ -5,6 +5,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Joti+One&display=swap" rel="stylesheet">
 
+<nav> 
+    <ul> 
+       <li><a href="index.html">Home</a></li>
+       <li><a href="toby-maguire">toby-maguire</a></li>
+       <li><a href="andrew-garfield">andrew-garfield</a></li>
+       <li><a href="thom-holland"></a>thom-holland</li>
+    </ul>
+ </nav>
+
 </head>
 <body>
     <section id="fourth-section">

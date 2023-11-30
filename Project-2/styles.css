@@ -15,19 +15,21 @@
 
 /**** Layout */
 section {
-    Width: 1000px;
+    
 }
+
 #first-section{
 background-color: red;
 font-family: var(--sans);
+
 }
 
 #second-section{
-    background-color: blue;
+    background-color: gray;
 font-family: var(--serif);
 }
 #third-section{
-    background-color: green;
+    background-color:aliceblue;
 }
 .flex{
     display:flex;
@@ -62,14 +64,15 @@ Nav ul{
   width: 400px;   
 }
 
-#toby-maguire img{
-    width: 400px;
+#tobypng img{
+    width: 300px;
+    height:200px
     
 }
 
 #andrew-garfield img {
-width: 400px;
-background-color: lime;
+width: 100px;
+min-height: 100px;
 
 }
 
